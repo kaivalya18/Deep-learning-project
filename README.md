@@ -1,7 +1,3 @@
-Here’s the README for both projects in a single block:
-
----
-
 # **Deep Learning Projects**
 
 ## 1. **Digit Recognition with MNIST Dataset**
@@ -74,6 +70,3 @@ The synthetic dataset includes 13 medical features and a target column (`has_dis
    ```
 3. Run all cells to preprocess data, train the model, and evaluate performance.
 
----
-
-You can adjust or add any additional details to fit your needs!
